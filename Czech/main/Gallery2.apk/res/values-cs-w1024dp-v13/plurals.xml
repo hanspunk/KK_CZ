@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d položek vybráno</item>
+        <item quantity="zero">%1$d položka vybrána</item>
+        <item quantity="one">%1$d položka vybrána</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">%1$d alb vybráno</item>
+        <item quantity="zero">%1$d album vybráno</item>
+        <item quantity="one">%1$d album vybráno</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d skupin vybráno</item>
+        <item quantity="zero">%1$d skupina vybrána</item>
+        <item quantity="one">%1$d skupina vybrána</item>
+    </plurals>
+</resources>

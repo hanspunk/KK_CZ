@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="batteryWarning_label">BatteryWarning</string>
+    <string name="title_charger_over_voltage">Přepětí nabíječky</string>
+    <string name="title_battery_over_temperature">Zvýšená teplota baterie</string>
+    <string name="title_over_current_protection">Ochrana proti přepětí</string>
+    <string name="title_battery_over_voltage">Přepětí baterie</string>
+    <string name="title_safety_timer_timeout">Čas přepětí</string>
+    <string name="msg_charger_over_voltage">Tato nabíječka je v přepětí, prosím odpojte nabíječku!</string>
+    <string name="msg_battery_over_temperature">Baterie má zvýšenou teplotu, prosím, vyjměte baterii!</string>
+    <string name="msg_over_current_protection">Baterie v přepětí bez ochrany, odeberte baterii!</string>
+    <string name="msg_battery_over_voltage">Baterie v přepětí, odeberte baterii!</string>
+    <string name="msg_safety_timer_timeout">Doba nabíjení je příliš dlouhá, prosím odpojte nabíječku!</string>
+    <string name="btn_ok_msg">Připomenout znovu</string>
+    <string name="btn_cancel_msg">Zavřít</string>
+</resources>

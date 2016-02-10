@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/F_inf_app_name"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:title="@string/F_inf_model_name_info" android:key="tag_model_name" android:summary="@string/F_inf_model_name_default" style="?android:preferenceInformationStyle" />
+    <Preference android:title="@string/F_inf_barcode_info" android:key="tag_barcode" android:summary="@string/F_inf_barcode_info_default" />
+    <Preference android:title="@string/F_inf_sw_version_info" android:key="tag_sw_version" android:summary="@string/F_inf_sw_version_info_default" />
+    <Preference android:title="@string/F_inf_flex_version_info" android:key="tag_flex_version" android:summary="@string/F_inf_flex_version_info_default" style="?android:preferenceInformationStyle" />
+    <Preference android:title="@string/F_inf_imei_sim1_info" android:key="tag_imei_sim1" android:summary="@string/F_inf_imei_sim1_default" style="?android:preferenceInformationStyle" />
+    <Preference android:title="@string/F_inf_imei_sim2_info" android:key="tag_imei_sim2" android:summary="@string/F_inf_imei_sim2_default" style="?android:preferenceInformationStyle" />
+    <Preference android:title="@string/F_inf_svn_info" android:key="tag_svn" android:summary="@string/F_inf_svn_default" style="?android:preferenceInformationStyle" />
+    <Preference android:title="@string/F_inf_key_state_info" android:key="tag_key_state" android:summary="@string/F_inf_key_state_default" style="?android:preferenceInformationStyle" />
+    <Preference android:title="@string/F_inf_umts_band_info" android:key="tag_umts_band" android:summary="@string/F_inf_umts_band_default" style="?android:preferenceInformationStyle" />
+    <Preference android:title="@string/F_inf_root_permission_info" android:key="tag_root_permission" android:summary="@string/F_inf_root_permission_default" style="?android:preferenceInformationStyle" />
+</PreferenceScreen>

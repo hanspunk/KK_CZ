@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="F_inf_app_name">Factory_Information</string>
+    <string name="F_inf_model_name_info">Model</string>
+    <string name="F_inf_model_name_default">model_name_default</string>
+    <string name="F_inf_barcode_info">Serial number</string>
+    <string name="F_inf_barcode_info_default">barcode_info_default</string>
+    <string name="F_inf_sw_version_info">Build number</string>
+    <string name="F_inf_sw_version_info_default">sw_version_info_default</string>
+    <string name="F_inf_flex_version_info">FLEX version</string>
+    <string name="F_inf_flex_version_info_default">flex_version_info_default</string>
+    <string name="F_inf_scb_version_info">SCB version</string>
+    <string name="F_inf_scb_version_info_default">scb_version_info_default</string>
+    <string name="F_inf_msn_info">MSN</string>
+    <string name="F_inf_msn_info_default">msn_info_default</string>
+    <string name="F_inf_picasso_info">PICASSO</string>
+    <string name="F_inf_picasso_info_default">picasso_info_default</string>
+    <string name="F_inf_dom_info">DOM</string>
+    <string name="F_inf_dom_info_default">dom_info_default</string>
+    <string name="F_inf_xcvr_info">XCVR</string>
+    <string name="F_inf_xcvr_info_default">xcvr_info_default</string>
+    <string name="F_inf_wifi_mac_info">WiFi MAC</string>
+    <string name="F_inf_wifi_mac_default">wifi_mac_default</string>
+    <string name="F_inf_bt_mac_info">BT MAC</string>
+    <string name="F_inf_bt_mac_default">bt_mac_default</string>
+    <string name="F_inf_imei_sim1_info">IMEI 1</string>
+    <string name="F_inf_imei_sim1_default">imei_sim1_default</string>
+    <string name="F_inf_imei_sim2_info">IMEI 2</string>
+    <string name="F_inf_imei_sim2_default">imei_sim2_default</string>
+    <string name="F_inf_key_state_info">Key State</string>
+    <string name="F_inf_key_state_default">key_state_default</string>
+    <string name="F_inf_umts_band_info">UMTS band</string>
+    <string name="F_inf_umts_band_default">umts_band_default</string>
+    <string name="F_inf_efuse_info">EFuse</string>
+    <string name="F_inf_efuse_default">efuse_default</string>
+    <string name="F_inf_device_info_default">default</string>
+    <string name="F_inf_svn_info">SVN</string>
+    <string name="F_inf_svn_default">SVN_default</string>
+    <string name="F_inf_root_permission_info">Rooted</string>
+    <string name="F_inf_root_permission_default">rooted_default</string>
+</resources>

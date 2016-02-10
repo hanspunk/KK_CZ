@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">目前電池溫度!</string>
+    <string name="app_name">CoolDownModeTest</string>
+    <string name="temperature">50,7</string>
+    <string name="OK">OK</string>
+    <string name="warningTitle">Upozornění</string>
+    <string name="warningText">Hovory a aplikace se musí vypnout, aby se telefon ochladil.</string>
+    <string name="cooldownTitle">Chlazení</string>
+    <string name="cooldownText">Telefon je nyní v režimu ochlazení. Pouze tísňové volání.</string>
+    <string name="phonecooledTitle">Telefon ochlazen</string>
+    <string name="phonecooledText">Telefon ukončil upozornění nebo režim chlazení. Byla obnovena normální činnost.</string>
+    <string name="emergencyButton">Tísňové volání</string>
+    <string name="temp59">59</string>
+    <string name="temp60">60</string>
+    <string name="temp61">61</string>
+    <string name="temp62">62</string>
+    <string name="temp63">63</string>
+    <string name="temp64">64</string>
+    <string name="temp65">65</string>
+    <string name="temp66">66</string>
+    <string name="temp67">67</string>
+    <string name="temp68">68</string>
+    <string name="temp69">69</string>
+    <string name="temp70">70</string>
+    <string name="temp71">71</string>
+    <string name="shutdownTitle">Vypnutí</string>
+    <string name="shutdownButton">Vypnutí telefonu</string>
+    <string name="shutdownText">Teplota telefonu je příliš vysoká, proto se nyní vypne.</string>
+</resources>

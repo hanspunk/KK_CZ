@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_date_formatter">"Poslední synchronizace:
+%1$s
+%2$s"</string>
+</resources>
