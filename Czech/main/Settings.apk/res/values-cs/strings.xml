@@ -1982,6 +1982,7 @@
     <string name="autostarts_allow_progress_msg">Nastavování spouštění, prosím čekejte...</string>
     <string name="autostarts_prohibit_progress_msg">Rušeníní spouštění, prosím čekejte...</string>
     <string name="autostarts_all_btn_title">Zobrazit všechny aplikace po spuštění</string>
+    <string name="autostarts_title_low">Nastavení aplikací po spuštění</string>
     <string name="cpu_control">Nastavení procesoru</string>
     <string name="cpu_control_summary">Úprava frekvencí, governoru atd.</string>
     <string name="app_ops_settings_low">Operace s aplikacemi</string>
