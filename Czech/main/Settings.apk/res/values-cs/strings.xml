@@ -1979,6 +1979,12 @@
     <string name="autostarts_optimize_btn_title">Optimalizace spuštění aplikace</string>
     <string name="autostarts_startup_boot_des">Během startu</string>
     <string name="autostarts_startup_background_des">Po startu</string>
+    <string name="autostarts_allow_progress_msg">Nastavování spouštění, prosím čekejte...</string>
+    <string name="autostarts_prohibit_progress_msg">Rušeníní spouštění, prosím čekejte...</string>
+    <string name="autostarts_all_btn_title">Zobrazit všechny aplikace po spuštění</string>
+    <string name="cpu_control">Nastavení procesoru</string>
+    <string name="cpu_control_summary">Úprava frekvencí, governoru atd.</string>
+    <string name="app_ops_settings_low">Operace s aplikacemi</string>
     <string name="sdcard_storage_title">SD Karta</string>
     <string name="usb_storage_title">Interní úložiště</string>
     <string name="internal_storage_title">Systémový prostor</string>
